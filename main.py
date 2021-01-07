@@ -16,4 +16,4 @@ df = pd.DataFrame([])
 a = np.random.rand(100)
 print(f.funcao_quadrado(a))
 
-print("Nova Linha")
+print("Nova Linha alterada")
