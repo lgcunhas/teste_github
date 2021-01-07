@@ -18,4 +18,7 @@ print(f.funcao_quadrado(a))
 
 print("Nova Linha alterada")
 
-# Adicionando comentário GitHub 
+# Adicionando comentário GitHub
+
+b = f.funcao_quadrado(a)
+df = pd.DataFrame(b)
