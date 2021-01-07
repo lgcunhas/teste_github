@@ -17,3 +17,5 @@ a = np.random.rand(100)
 print(f.funcao_quadrado(a))
 
 print("Nova Linha alterada")
+
+# Adicionando comentário GitHub 
