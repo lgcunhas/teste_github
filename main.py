@@ -22,3 +22,5 @@ print("Nova Linha alterada")
 
 b = f.funcao_quadrado(a)
 df = pd.DataFrame(b)
+
+print(df)
